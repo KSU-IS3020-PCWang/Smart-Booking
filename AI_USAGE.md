@@ -5,8 +5,7 @@ My original code has little to no AI assistance. As you can tell, it is very bas
 The main AI tool used was ChatGPT. It helped identify and correct formatting and syntax errors, such as capitalizing class names, adding missing punctuation, and fixing indentation. After these corrections, the updated version of the program can effectively detect double bookings while maintaining the original functionality and structure of my code.
 
 # Improvements Requested
-Describe the important prompts or requests you gave the AI. Do not paste a complete chat transcript.
-
+I requested ChatGPT to help me effectively run the code to detect double bookings. 
 # Changes Accepted
 For each major accepted change, explain what changed, why you accepted it, and how you verified that you understood it.
 
