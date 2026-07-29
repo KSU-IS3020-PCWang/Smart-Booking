@@ -1,3 +1,4 @@
+# IS3020 Final Project
 # Student and Project Information
 - Student name: Nicole Valencia
 - GitHub username: laixnicole
@@ -10,3 +11,5 @@
 - Online appointment scheduling
 - Dashboard for managing bookings
 - Client data storage
+
+# Testing Summary 
