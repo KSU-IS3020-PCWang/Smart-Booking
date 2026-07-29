@@ -13,4 +13,4 @@ For each major accepted change, explain what changed, why you accepted it, and h
 Describe any AI suggestion you rejected or modified and explain why.
 
 # What I Learned
-Explain what you learned by reviewing and applying the AI-assisted improvements.
+This project helped me get more comfortable with Python and debugging my code. I learned how to improve my program by checking for errors, making the code easier to read, and testing everything after making changes.
