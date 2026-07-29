@@ -1,5 +1,5 @@
 # Final Submission Checklist #
- -[] # My application runs from PyCharm without an unhandled error.
+ -[ ] # My application runs from PyCharm without an unhandled error.
 - My application includes approximately 5–10 meaningful functions.
  - My application uses a list, dictionary, tuple, or another appropriate basic collection.
  -My application uses conditionals and loops.
