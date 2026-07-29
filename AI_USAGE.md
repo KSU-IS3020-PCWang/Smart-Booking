@@ -1,9 +1,8 @@
 # AI Improvement Record
-Original Development
-Explain how you developed the original version and describe any AI assistance used before the first required commit. AI use during this stage should be minimal.
+My original code has little to no AI assistance. As you can tell, it is very basic and reflects my own understanding of the concepts.
 
 # AI Tools Used
-List each AI tool used while improving the application.
+The main AI tool used was ChatGPT. It helped identify and correct formatting and syntax errors, such as capitalizing class names, adding missing punctuation, and fixing indentation. After these corrections, the updated version of the program can effectively detect double bookings while maintaining the original functionality and structure of my code.
 
 # Improvements Requested
 Describe the important prompts or requests you gave the AI. Do not paste a complete chat transcript.
