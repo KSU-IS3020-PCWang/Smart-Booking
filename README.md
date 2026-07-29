@@ -13,3 +13,4 @@
 - Client data storage
 
 # Testing Summary 
+I tested the program by running different scenarios to make sure it worked correctly. I checked that appointments could be added properly, that invalid inputs were handled, and that double bookings were detected. After making changes, I retested the application to make sure everything still worked as expected.
